@@ -1,6 +1,6 @@
 # Advanced Trading Strategies for 1inch Limit Order Protocol 🚀
 
-## 🏆 ETH Global Hackathon Submission - Expand Limit Order Protocol Track
+## 🏆 ETH Global Defi Unite hackathon 2025 winner (1st place)
 
 This project extends the 1inch Limit Order Protocol v4.3.2 with three sophisticated trading strategies that bring institutional-grade functionality to decentralized finance:
 
